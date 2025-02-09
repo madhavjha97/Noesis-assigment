@@ -6,7 +6,7 @@ This is a web-based telephone directory application built using VILT Stack (Vue.
 
 Demo
 
-Watch the demo video here: [Demo Video]()
+Watch the demo video here: https://youtu.be/fdbSoqUDWwE
 
 ## Technologies Used
 
